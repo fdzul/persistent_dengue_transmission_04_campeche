@@ -1,5 +1,5 @@
 ---
-title: "Programa de Prevención y Control del Dengue | 2025"
+title: "Programa de Prevención y Control de Arbovirosis | 2026 | Campeche"
 format: 
   dashboard:
     nav-buttons: [twitter, github, facebook]
